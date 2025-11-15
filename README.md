@@ -1,6 +1,7 @@
 # FiboPlasma - KDE Plasma 6 Wallpaper Plugin
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b4ee1a72-ff59-4cec-a762-bbfa2293b830" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/647e1f2b-b89b-46f2-aa98-b7afba9ab37f" />
+
 
 
 A Fibonacci clock wallpaper plugin for KDE Plasma 6. Uses Fibonacci numbers (1, 1, 2, 3, 5) to display the current time. The idea is from Philippe Chrétiens project.
