@@ -3,7 +3,7 @@
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b4ee1a72-ff59-4cec-a762-bbfa2293b830" />
 
 
-A Fibonacci clock wallpaper plugin for KDE Plasma 6. Uses Fibonacci numbers (1, 1, 2, 3, 5) to display the current time in a unique visual way.
+A Fibonacci clock wallpaper plugin for KDE Plasma 6. Uses Fibonacci numbers (1, 1, 2, 3, 5) to display the current time. The idea is from Philippe Chrétiens project.
 
 ## Features
 
@@ -71,3 +71,8 @@ The original C implementation using X11/Cairo can be found at https://github.com
 ## License
 
 GPL-3.0+
+
+## Credits
+
+The original concept of the Fibonacci clock was created by Philippe Chrétien (GeekOClock).
+This Plasma wallpaper implementation is my own work along with the original C implementation using X11/Cairo which can be found at https://github.com/hollorol/fiboBG
