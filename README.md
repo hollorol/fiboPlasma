@@ -21,10 +21,9 @@ A Fibonacci clock wallpaper plugin for KDE Plasma 6. Uses Fibonacci numbers (1, 
 
 ## Installation
 
-Install the plugin using kpackagetool6:
+Install the plugin using kpackagetool6 assuming you are in the cloned directory:
 
 ```bash
-cd /home/hollorol/projects/fiboPlasma
 kpackagetool6 --install . --type Plasma/Wallpaper
 ```
 
