@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=General
+Icon=preferences-desktop-wallpaper
+Type=Service
+X-KDE-ServiceTypes=Plasma/Generic
+X-KDE-ParentComponents=com.example.fiboplasma

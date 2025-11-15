@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+                          http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+
+  <group name="General">
+    <entry name="BackgroundColor" type="Color">
+      <default>#000000</default>
+    </entry>
+    <entry name="BaseColor" type="Color">
+      <default>#808080</default>
+    </entry>
+    <entry name="MinuteColor" type="Color">
+      <default>#ff0000</default>
+    </entry>
+    <entry name="HourColor" type="Color">
+      <default>#0000ff</default>
+    </entry>
+    <entry name="BothColor" type="Color">
+      <default>#00ff00</default>
+    </entry>
+    <entry name="GapSize" type="Int">
+      <default>3</default>
+      <min>0</min>
+      <max>20</max>
+    </entry>
+    <entry name="BoxHeightRate" type="Double">
+      <default>0.9</default>
+      <min>0.1</min>
+      <max>1.0</max>
+    </entry>
+  </group>
+</kcfg>

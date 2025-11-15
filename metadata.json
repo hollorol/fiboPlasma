@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "hollorol@gmail.com",
+                "Name": "Roland Hollós"
+            }
+        ],
+        "Category": "Plasma Wallpaper",
+        "Description": "A custom Plasma 6 wallpaper plugin",
+        "EnabledByDefault": true,
+        "Icon": "preferences-desktop-wallpaper",
+        "Id": "com.example.fiboplasma",
+        "License": "GPL-3.0+",
+        "Name": "FiboPlasma",
+        "Version": "1.0",
+        "Website": "https://github.com/hollorol/fiboPlasma"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
